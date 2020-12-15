@@ -6,9 +6,9 @@ Não é necessário que você entregue 100% da aplicação. Ainda que iremos ava
 
 ## O Desafio
 
-A aplicação proposta neste desafio é uma API de analise de documentos para identificação de fraudes. Abaixo estão relacionados os endpoints que gostaríamos de ver na aplicação e alguns exemplos de resposta.
+A aplicação proposta neste desafio é uma API de análise de documentos para identificação de fraudes. Abaixo estão relacionados os endpoints que gostaríamos de ver na aplicação e alguns exemplos de resposta.
 
-**Importante:** Não esperamos que você realmente faça essa analise (apenas a gere aleátoriamente).
+**Importante:** Não esperamos que você realmente faça essa análise (apenas a gere aleatoriamente).
 
 ### Criar Análise
 
